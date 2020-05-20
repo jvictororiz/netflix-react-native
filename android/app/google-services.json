@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "47943222088",
+    "firebase_url": "https://netflix-react-ee5a6.firebaseio.com",
+    "project_id": "netflix-react-ee5a6",
+    "storage_bucket": "netflix-react-ee5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47943222088:android:562fd49b60b93df6e6297d",
+        "android_client_info": {
+          "package_name": "netflix.react"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47943222088-6bqga6vjuq3mba46m92sqgmf2cq6k87a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5f0N4ziEUhFQM92sQ10TsPIxuepvGbRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47943222088-6bqga6vjuq3mba46m92sqgmf2cq6k87a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
